@@ -1,5 +1,4 @@
 # Hi there 👋, my name is Emilis
-#### AI Systems Engineering
 Motivated IT student from Lithuania. Love developing new skills, understanding foreign topics and achieving great results. Currently on a quest to learn more about cybersecurity.
 <!--## My stats 📃-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarcophaguss)](https://github.com/anuraghazra/github-readme-stats)
